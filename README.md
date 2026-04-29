@@ -1,7 +1,6 @@
 # Customer Support Ticket Analyzer  
 *A Python-based analysis of customer support tickets to identify patterns, improve service quality, and generate actionable insights.*
 
----
 ## 📖 Table of Contents
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
@@ -13,7 +12,6 @@
 - [Conclusion](#conclusion)
 - [How to Use](#how-to-use)
 
----
 
 ## 📊 Project Overview
 This project analyzes customer support tickets to identify common issues, evaluate service quality, and improve customer satisfaction.
