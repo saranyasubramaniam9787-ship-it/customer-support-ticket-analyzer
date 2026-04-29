@@ -102,9 +102,9 @@ This project analyzes customer support tickets to identify common issues, evalua
 
 ---
 
-## ⚙️ How to Use
+### How to Use
 
-### ▶️ Steps
+### Steps
 1. Open the notebook in Google Colab / Jupyter  
 2. Run all cells sequentially  
 
